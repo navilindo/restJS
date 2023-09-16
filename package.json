@@ -1,0 +1,23 @@
+{
+  "name": "restjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navilindo/restJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navilindo/restJS/issues"
+  },
+  "homepage": "https://github.com/navilindo/restJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
